@@ -1,2 +1,2 @@
 # firstrepo
-First repo
+First repo has been created.
